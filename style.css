@@ -7,7 +7,7 @@ h2 {
   }
   
   ul {
-    border: 2px solid orange;
+    border: 2px dashed orange;
   }
   
   ol {
@@ -25,4 +25,8 @@ h2 {
   
   em {
     color: gray;
+  }
+
+  li {
+    color: darkgreen
   }
